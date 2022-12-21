@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Evil-Bees/">
-    <img src="https://raw.githubusercontent.com/Evil-Bees/.github/master/profile.png" alt="Evil Bees logo" width="1100" />
+    <img src="https://raw.githubusercontent.com/Evil-Bees/.github/master/profile-readme.png" alt="Evil Bees logo" width="1100" />
   </a>
 </p>
 
