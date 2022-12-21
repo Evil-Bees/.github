@@ -23,11 +23,11 @@ However, should things go awry, there will be a contingency plan set in place, a
       height="30"
       width="30"
   /></a>
-  <a href="https://www.linkedin.com/company/evil-bees/" target="blank"
+  <a href="https://discord.com/invite/rvxGNrFhNz" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="https://www.linkedin.com/company/evil-bees/"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
+      alt="https://discord.com/invite/rvxGNrFhNz"
       height="30"
       width="40"
   /></a>
@@ -47,11 +47,11 @@ However, should things go awry, there will be a contingency plan set in place, a
       height="30"
       width="40"
   /></a>
-  <a href="https://discord.com/invite/rvxGNrFhNz" target="blank"
+  <a href="https://www.linkedin.com/company/evil-bees/" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-      alt="https://discord.com/invite/rvxGNrFhNz"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="https://www.linkedin.com/company/evil-bees/"
       height="30"
       width="40"
   /></a>
