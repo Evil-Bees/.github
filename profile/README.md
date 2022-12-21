@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="background-color: 0B1D36;">
   <a href="https://github.com/Evil-Bees/">
     <img src="https://avatars.githubusercontent.com/u/115155319?s=200&v=4" alt="Evil Bees logo" width="300" />
   </a>
